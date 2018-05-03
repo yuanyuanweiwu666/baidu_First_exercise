@@ -1,0 +1,41 @@
+﻿html * {
+    margin: 0;
+    padding: 0;
+}
+
+#introduce {
+    float: left;
+    background-color: aqua;
+    width: 170px;
+    height: 700px;
+    margin:0px 0px;
+}
+
+    #introduce h1 {
+        color: white;
+        text-align: center;
+        margin: 70px auto;
+    }
+
+#main {
+    float:left;
+    margin:0px 15px;
+}
+
+#container {
+    margin-left: 10px;
+    width: 80%;
+}
+
+li {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.category {
+    margin: 20px 0;
+}
+
+.sec {
+    margin: 15px 0;
+}

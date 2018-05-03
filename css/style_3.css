@@ -1,0 +1,59 @@
+﻿
+html * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12px;
+}
+
+h2,h4,b {
+    font-size: 12px;
+}
+
+li {
+    display: inline-block;
+    margin-right: 35px;
+}
+
+#container {
+    margin-left: 10px;
+    width: 70%;   
+}
+
+#introduce {
+    height: 60px;
+    background-color: #848484;
+    line-height: 60px;
+}
+
+#introduce h1 {
+    font-size: 14px;
+    color: #FFF;
+    margin-left: 20px;
+}
+
+.category {
+    height: 90px;    
+    border-bottom: 1px solid #D6D6D6;
+}
+
+.category h2 {
+    width: 80px;
+    height: 90px;
+    text-align: center;
+    line-height: 90px;
+    background-color: #D6D6D6;
+    float: left;
+    border-bottom: 1px solid #FFF;
+}
+
+.content {
+    float: left;
+    margin: 15px 0 0 15px;
+}
+
+.sec h4, .sec p {
+  
+}
